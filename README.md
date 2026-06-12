@@ -1,3 +1,4 @@
+<img width="951" height="803" alt="Снимок экрана 2026-06-12 213602" src="https://github.com/user-attachments/assets/92188964-da5b-40bc-b6c4-c4734bf6c7a9" />
 # MangoDPI
 **MangoDPI - твой личный маршрутизатор в консоли MangoDPI**
 
