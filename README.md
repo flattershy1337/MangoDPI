@@ -31,3 +31,5 @@
 Основано на [zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) .
 
 Спасибо [Flowseal](https://github.com/Flowseal) за репозиторий zapret-discord-youtube!
+
+На чай ([boosty](https://boosty.to/solointerno.corp))
