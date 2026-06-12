@@ -33,3 +33,5 @@
 
 
 На чай ([boosty](https://boosty.to/solointerno.corp))
+
+поддержать моего кента и его игруху [pixelio76](https://github.com/pixelio76/Mango-Strike)
