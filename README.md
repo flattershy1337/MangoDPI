@@ -78,4 +78,4 @@ THIRD-PARTY-NOTICES.txt   лицензии сторонних компонент
 На чай ([boosty](https://boosty.to/solointerno.corp))  Клодик себе на компьютер. [получить](https://github.com/pixelio76/klodik)
 
 <img  width="957" height="821" alt="изображение" src="https://github.com/user-attachments/assets/5020f1cc-b89c-46cd-950a-cfc1fb94a69d" />
- (чтобы появились милые клодики - нажми сюд: https://github.com/pixelio76/klodik * не штурм и не ратка.)
+    чтобы появились милые клодики - нажми сюда: https://github.com/pixelio76/klodik * не штурм и не ратка.
