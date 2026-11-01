@@ -1,5 +1,5 @@
-<img <img width="924" height="642" alt="изображение" src="https://github.com/user-attachments/assets/7b32bed9-b035-4c8b-9741-baa127540632" />
-<img  <img width="925" height="631" alt="изображение" src="https://github.com/user-attachments/assets/69b20595-27c2-41b7-9b4d-572035481e1e" />
+<img  width="924" height="642" alt="изображение" src="https://github.com/user-attachments/assets/7b32bed9-b035-4c8b-9741-baa127540632" />
+<img   width="925" height="631" alt="изображение" src="https://github.com/user-attachments/assets/69b20595-27c2-41b7-9b4d-572035481e1e" />
 />
 
 # MangoDPI 2.0
