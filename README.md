@@ -67,7 +67,7 @@ THIRD-PARTY-NOTICES.txt   лицензии сторонних компонент
 - MangoDPI распространяется бесплатно, «как есть», без каких-либо гарантий, на условиях лицензии [MIT]([LICENSE.txt](https://github.com/flattershy1337/MangoDPI/blob/main/LICENSE[1].txt)).
 - Авторы не несут ответственности за последствия использования программы, в том числе за утрату данных, сбои в работе компьютера и сети, а также за правовые последствия для пользователя. Подробнее — в [пользовательском соглашении]([EULA.txt](https://github.com/flattershy1337/MangoDPI/blob/main/EULA[1].txt)).
 - Программа не собирает и не передаёт персональные данные и не содержит телеметрии.
-- Сторонние компоненты (zapret, zapret-discord-youtube, WinDivert, Cygwin) распространяются по своим лицензиям: [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt).
+- Сторонние компоненты (zapret, zapret-discord-youtube, WinDivert, Cygwin) распространяются по своим лицензиям: [THIRD-PARTY-NOTICES.txt](https://github.com/flattershy1337/MangoDPI/blob/main/THIRD-PARTY-NOTICES[1].txt).
 
 ---
 
@@ -77,5 +77,5 @@ THIRD-PARTY-NOTICES.txt   лицензии сторонних компонент
 
 На чай ([boosty](https://boosty.to/solointerno.corp))  Клодик себе на компьютер. [получить](https://github.com/pixelio76/klodik)
 
-<img  <img width="957" height="821" alt="изображение" src="https://github.com/user-attachments/assets/5020f1cc-b89c-46cd-950a-cfc1fb94a69d" />
+<img  width="957" height="821" alt="изображение" src="https://github.com/user-attachments/assets/5020f1cc-b89c-46cd-950a-cfc1fb94a69d" />
  
