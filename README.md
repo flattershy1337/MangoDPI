@@ -1,4 +1,6 @@
-<img width="1040" alt="MangoDPI 2.0" src="docs/home.png" />
+<img <img width="924" height="642" alt="изображение" src="https://github.com/user-attachments/assets/7b32bed9-b035-4c8b-9741-baa127540632" />
+<img  <img width="925" height="631" alt="изображение" src="https://github.com/user-attachments/assets/69b20595-27c2-41b7-9b4d-572035481e1e" />
+/>
 
 # MangoDPI 2.0
 
@@ -74,4 +76,4 @@ THIRD-PARTY-NOTICES.txt   лицензии сторонних компонент
 
 Основано на [zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) и [zapret](https://github.com/bol-van/zapret).
 
-На чай ([boosty](https://boosty.to/solointerno.corp)) 
+На чай ([boosty](https://boosty.to/solointerno.corp))  Клодик себе на компьютер. [получить](https://github.com/pixelio76/klodik)
