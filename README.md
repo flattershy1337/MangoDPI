@@ -58,13 +58,13 @@ THIRD-PARTY-NOTICES.txt   лицензии сторонних компонент
 
 ## Сборка и релиз
 
-`build.bat` собирает `package\MangoDPI.exe` компилятором C#, встроенным в Windows (.NET Framework 4.x); Visual Studio не нужна. `release.ps1` готовит файлы для GitHub-релиза, порядок описан в [docs/RELEASING.md](docs/RELEASING.md). Планы развития — в [docs/ROADMAP.md](docs/ROADMAP.md).
+`build.bat` собирает `package\MangoDPI.exe` компилятором C#, встроенным в Windows (.NET Framework 4.x); Visual Studio не нужна.
 
 `MangoDPI.exe --selftest <папка>` проверяет все стратегии через `winws --dry-run` и сохраняет скриншоты интерфейса.
 
 ## Правовая информация
 
-- MangoDPI распространяется бесплатно, «как есть», без каких-либо гарантий, на условиях лицензии [MIT](LICENSE.txt).
+- MangoDPI распространяется бесплатно, «как есть», без каких-либо гарантий, на условиях лицензии [MIT]([LICENSE.txt](https://github.com/flattershy1337/MangoDPI/blob/main/LICENSE[1].txt)).
 - Авторы не несут ответственности за последствия использования программы, в том числе за утрату данных, сбои в работе компьютера и сети, а также за правовые последствия для пользователя. Подробнее — в [пользовательском соглашении]([EULA.txt](https://github.com/flattershy1337/MangoDPI/blob/main/EULA[1].txt)).
 - Программа не собирает и не передаёт персональные данные и не содержит телеметрии.
 - Сторонние компоненты (zapret, zapret-discord-youtube, WinDivert, Cygwin) распространяются по своим лицензиям: [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt).
@@ -78,4 +78,4 @@ THIRD-PARTY-NOTICES.txt   лицензии сторонних компонент
 На чай ([boosty](https://boosty.to/solointerno.corp))  Клодик себе на компьютер. [получить](https://github.com/pixelio76/klodik)
 
 <img  <img width="957" height="821" alt="изображение" src="https://github.com/user-attachments/assets/5020f1cc-b89c-46cd-950a-cfc1fb94a69d" />
- />
+ 
