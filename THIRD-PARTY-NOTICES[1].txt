@@ -1,0 +1,32 @@
+MangoDPI includes the following third-party components.
+Each is distributed under its own license; their authors are not affiliated with MangoDPI.
+
+------------------------------------------------------------------------------
+zapret / winws (bin\winws.exe)
+  Copyright (c) 2016-2026 bol-van
+  License: MIT
+  Source: https://github.com/bol-van/zapret
+
+------------------------------------------------------------------------------
+zapret-discord-youtube (strategies\*.strat, bin\*.bin, lists\*.txt)
+  Copyright (c) 2016-2026 bol-van, (c) 2024-2026 Flowseal
+  License: MIT
+  Source: https://github.com/Flowseal/zapret-discord-youtube
+  Strategies are converted from release 1.10.4 without functional changes.
+
+------------------------------------------------------------------------------
+WinDivert (bin\WinDivert.dll, bin\WinDivert64.sys)
+  Copyright (c) basil00
+  License: GNU Lesser General Public License v3 or GNU General Public License v2
+           (dual-licensed, at your choice)
+  Source: https://github.com/basil00/WinDivert
+  The unmodified binaries are redistributed; the complete source code and
+  license texts are available at the address above.
+
+------------------------------------------------------------------------------
+Cygwin DLL (bin\cygwin1.dll)
+  Copyright (c) Red Hat, Inc. and Cygwin contributors
+  License: GNU Lesser General Public License v3 (with the Cygwin linking exception)
+  Source: https://cygwin.com/git.html
+  The unmodified binary is redistributed; the complete source code and
+  license texts are available at the address above.
